@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: cli-tool
+Version: 1.0.0
+Summary: Multi‑command CLI tool: google search / location / weather
+Requires-Dist: googlesearch-python
+Requires-Dist: geopy
+Requires-Dist: requests
+Dynamic: requires-dist
+Dynamic: summary

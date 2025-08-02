@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         "console_scripts": [
-            "cli-tool = cli:main",
+            "cli-tool = cli_tool.__main__:main",
         ],
     },
     install_requires=[
