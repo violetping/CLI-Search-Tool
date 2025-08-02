@@ -13,7 +13,7 @@ A Python command‑line application offering:
 Clone and install:
 
 ```bash
-git clone https://github.com/yourusername/CLI-Search-Tool.git
+git clone https://github.com/violetping/CLI-Search-Tool.git
 
 cd CLI-Search-Tool
 pip install .
