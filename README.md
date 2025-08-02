@@ -23,6 +23,6 @@ pip install -r requirements.txt
 
 ## Use Commands 
 ```bash
-cli-search googlesearch -n 5 "search words"   # -n = number of results [maximum 20] , "ai tool" = your search keywordrs. 
-cli-search location "cityname"                # for location parameters 
-cli-search weather "city" "API key"           # for weather parameters
+cli-search googlesearch -n 5 ai tool     # -n = number of results [maximum 20] , "ai tool" = your search keywordrs. 
+cli-search location "cityname"           # for location parameters 
+cli-search weather "city" "API key"      # for weather parameters
