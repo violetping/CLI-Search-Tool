@@ -19,8 +19,10 @@ cd CLI-Search-Tool
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 ## Use Commands 
-cli-search googlesearch -n 5 "search words"   : -n = number of results [maximum 20] , "ai tool" = your search keywordrs. 
-cli-search location "cityname"  : for location parameters 
-cli-search weather "city" "API key" : for weather parameters
+```bash
+cli-search googlesearch -n 5 "search words"   # -n = number of results [maximum 20] , "ai tool" = your search keywordrs. 
+cli-search location "cityname"                # for location parameters 
+cli-search weather "city" "API key"           # for weather parameters
